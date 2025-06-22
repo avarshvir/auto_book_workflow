@@ -15,3 +15,11 @@
 - OpenRouter API
 - Chroma DB
 - dotenv
+
+### Run the Project
+```
+git clone https://github.com/avarshvir/auto_book_workflow.git
+cd auto_book_workflow
+pip install -r requirements.txt
+python run app.py
+```
